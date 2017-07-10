@@ -46,5 +46,7 @@ public class MergeSort{
         for(int a : array){
             System.out.print(a + " ");
         }
+
+        System.out.print("zhang yun peng");
     }
 }
